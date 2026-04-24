@@ -22,4 +22,10 @@ C3: [Red Party] Bob Jones : 1200 votes
 [== Overload] Charlie and Alice belong to the same party.
 [> Overload] Current Leader: Alice Total with a 1100 vote lead.
 
+How to Run:
+Keep VotingLibrary.h and main.cpp in the same folder.
+Open your compiler (VS Code, Dev-C++, or Terminal).
+Compile main.cpp.
+Run the generated executable file to see the voting results and operator demonstrations.
+
 
