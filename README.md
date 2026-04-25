@@ -17,6 +17,7 @@ Programming principles. It focuses on Candidate management and vote aggregation.
    and greater-than (>) for ranking, plus stream insertion (<<) for easy output.
 
 **Sample Output:**
+
 --- VOTING SYSTEM & RESULT AGGREGATOR ---
 
 --- Initial Tally ---
