@@ -18,9 +18,13 @@ Programming principles. It focuses on Candidate management and vote aggregation.
 
 **Sample Output:**
 --- VOTING SYSTEM & RESULT AGGREGATOR ---
+
 --- Initial Tally ---
+
 C1: [Blue Party] Charlie Brown : 155 votes
+
 C2: [Blue Party] Alice Smith : 1500 votes
+
 C3: [Red Party] Bob Jones : 1200 votes
 
 **Analysis**
