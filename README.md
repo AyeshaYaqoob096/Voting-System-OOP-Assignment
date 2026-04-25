@@ -1,4 +1,4 @@
-# Voting System and Result Aggregiation Library (OOP-Assignment)
+# Voting System and Result Aggregation Library (OOP-Assignment)
 A C++ library for voting aggregation using operator and function overloading.
 
 **Student Name: Ayesha Yaqoob**
