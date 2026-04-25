@@ -1,5 +1,6 @@
-# Voting-System-OOP-Assignment
+# Voting System and Result Aggregiation Library (OOP-Assignment)
 A C++ library for voting aggregation using operator and function overloading.
+
 **Student Name: Ayesha Yaqoob
 Roll Number: 68
 Topic: Voting System and Result Aggregation Library**
@@ -20,7 +21,7 @@ C1: [Blue Party] Charlie Brown : 155 votes
 C2: [Blue Party] Alice Smith : 1500 votes
 C3: [Red Party] Bob Jones : 1200 votes
 
-**--- Analysis ---**
+**Analysis**
 [== Overload] Charlie and Alice belong to the same party.
 [> Overload] Current Leader: Alice Total with a 1100 vote lead.
 
