@@ -2,7 +2,9 @@
 A C++ library for voting aggregation using operator and function overloading.
 
 **Student Name: Ayesha Yaqoob
+
 Roll Number: 68
+
 Topic: Voting System and Result Aggregation Library**
 
 **Description:**
@@ -25,7 +27,7 @@ C3: [Red Party] Bob Jones : 1200 votes
 [== Overload] Charlie and Alice belong to the same party.
 [> Overload] Current Leader: Alice Total with a 1100 vote lead.
 
-## How to Run
+**How to Run**
 1. Download `VotingLibrary.h` and `main.cpp`.
 2. Ensure both files are in the same directory.
 3. Compile using: `g++ main.cpp -o VotingSystem`
